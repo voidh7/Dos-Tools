@@ -7,7 +7,7 @@ const axios = require("axios");
 const figlet = require("figlet");
 const readline = require('readline');
 
-const  httpfload  = require("./src/httpfload");            const  pingfload  = require("./src/pingfload");
+const  httpfload  = require("./src/httpfoad");            const  pingfload  = require("./src/pingfload");
 
 
 function perguntar(pergunta) {                               const rl = readline.createInterface({
