@@ -10,7 +10,7 @@ Ferramenta simples para realizar testes de negação de serviço (DoS) em redes 
 ```bash
 git clone https://github.com/voidh7/Dos-Tools
 cd Dos-Tools
-
+```
 2. Instale as dependências:
 
 
